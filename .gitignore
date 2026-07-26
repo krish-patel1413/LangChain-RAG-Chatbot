@@ -1,0 +1,11 @@
+# Jupyter Notebook cache and checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Local environment folders
+venv/
+.env
+
+# Python compilation files
+__pycache__/
+*.py[cod]
